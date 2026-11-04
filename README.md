@@ -11,7 +11,7 @@ A collection of upscaled (256x256) WoW Forever icons pre-converted to PNG format
 ## Downloads
 Download the complete zipped pack from the **[Releases](../../releases)** tab.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release_(ZIP)-2ea44f?style=for-the-badge&logo=github)](https://github.com/qcy-hash/wow-forever-icons-png/releases/latest/download/png_icons.zip)[cite: 6]
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release_(ZIP)-2ea44f?style=for-the-badge&logo=github)](https://github.com/qcy-hash/wow-forever-icons-png/releases/latest/download/png_icons.zip)
 
 ## Preview
 <p align="center">
