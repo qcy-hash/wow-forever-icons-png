@@ -23,7 +23,5 @@ Download the complete zipped pack from the **[Releases](../../releases)** tab.
 - **Original Artwork:** All icon art belongs to **Blizzard Entertainment**. This is a non-commercial, fan-made community utility[cite: 6].
 - **Conversion Utility:** Converted from `.blp` using Python and `Pillow`[cite: 6].
 
-![WoW Forever Icon Preview](https://raw.githubusercontent.com/hastecraft/forever-icons/master/docs/comparison.png)
-
 ## License
 Conversion scripts and documentation are licensed under the MIT License[cite: 6]. All game assets remain copyright © Blizzard Entertainment[cite: 6].
