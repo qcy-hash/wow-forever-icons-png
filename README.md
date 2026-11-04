@@ -19,9 +19,9 @@ Download the complete zipped pack from the **[Releases](../../releases)** tab.
 </p>
 
 ## Credits & Attribution
-- **Base Upscaled Pack:** Generated from the upscaled assets by [@hastecraft](https://github.com/hastecraft) via [hastecraft/forever-icons](https://github.com/hastecraft/forever-icons)[cite: 6].
-- **Original Artwork:** All icon art belongs to **Blizzard Entertainment**. This is a non-commercial, fan-made community utility[cite: 6].
-- **Conversion Utility:** Converted from `.blp` using Python and `Pillow`[cite: 6].
+- **Base Upscaled Pack:** Generated from the upscaled assets by [@hastecraft](https://github.com/hastecraft) via [hastecraft/forever-icons](https://github.com/hastecraft/forever-icons).
+- **Original Artwork:** All icon art belongs to **Blizzard Entertainment**. This is a non-commercial, fan-made community utility.
+- **Conversion Utility:** Converted from `.blp` using Python and `Pillow`.
 
 ## License
-Conversion scripts and documentation are licensed under the MIT License[cite: 6]. All game assets remain copyright © Blizzard Entertainment.
+Conversion scripts and documentation are licensed under the MIT License. All game assets remain copyright © Blizzard Entertainment.
