@@ -24,4 +24,4 @@ Download the complete zipped pack from the **[Releases](../../releases)** tab.
 - **Conversion Utility:** Converted from `.blp` using Python and `Pillow`[cite: 6].
 
 ## License
-Conversion scripts and documentation are licensed under the MIT License[cite: 6]. All game assets remain copyright © Blizzard Entertainment[cite: 6].
+Conversion scripts and documentation are licensed under the MIT License[cite: 6]. All game assets remain copyright © Blizzard Entertainment.
